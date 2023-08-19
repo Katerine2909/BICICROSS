@@ -1,3 +1,17 @@
-# Bicicross
-La historia del BMX en Colombia
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+    <meta name="description" content=""/>
+    <meta name="author" content=""/>
+    <title>      Bicicross     </title>
+<!--favicon-->
+<link rel="icon" type="image/x-icon" href="assets/favicon.ico"/>
+<!--Bootstrap icons-->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet"/>
+<!--google fonts-->
+<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic" rel="stylesheet"/>
+<!--core theme CSS (includes Bootstrap)-->
+<link href="css/styles.css" rel="stylesheet"/>
+</head>
 
